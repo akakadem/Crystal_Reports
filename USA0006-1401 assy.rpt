@@ -1,0 +1,51 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : PESL
+Receiving System Product I.D.: Unknown
+File Name                    : G:\Engineering\Warner Robbins\TT90-F REV U TRAILER\Tooling\Weld fixtures\USA0006-1401 assy.igs
+Sending System               : Unknown
+Preprocessor Version         : Version 5.2
+File Creation Date           : 20130924.130758
+Model Creation Date          : 20130924.130758
+Units                        : INCH
+Model Space Scale            : 1
+Author                       : Unknown
+Organization                 : Unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+124  Transformation matrix                           10        10
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       0
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Tuesday, October 08, 2013 16:25:55
+Finish time: Tuesday, October 08, 2013 16:25:55
+Processing time: 0 days, 00 hours, 00 mins, 00 secs
