@@ -4,12 +4,12 @@
 =================================================================
 General Information
 =================================================================
-Sending System Product I.D.  : ParaLogix v2.5 (Apr 23 2009)
-Receiving System Product I.D.: ParaLogix v2.5 (Apr 23 2009)
-File Name                    : G:\Engineering\Warner Robbins\TT90-F REV U TRAILER\Test Procedure\USA0006-1392 VERTICAL LOAD TEST FIXTURE.igs
-Sending System               : Edgecam Part Modeler 2009 R2 (Apr 23 2009 20:54:24 Unicode)
-Preprocessor Version         : A3DS IGES v2.5 (Apr 23 2009)
-File Creation Date           : 20090729.151615
+Sending System Product I.D.  : ParaLogix v2.5 (May  6 2014)
+Receiving System Product I.D.: ParaLogix v2.5 (May  6 2014)
+File Name                    : G:\Engineering\Warner Robbins\TT90-F REV U TRAILER\PART MODLER CONVERSIONS TO IGES\USA0006-1401 DET 6.igs
+Sending System               : Part Modeler 2014 R2 (May 06 2014 14:31:26 Unicode)
+Preprocessor Version         : A3DS IGES v2.5 (May  6 2014)
+File Creation Date           : 20150326.150405
 Model Creation Date          : 
 Units                        : IN
 Model Space Scale            : 1
@@ -27,10 +27,10 @@ Precision analysis of IGES file:
 =================================================================
   Most prevalent number of significant digits:              14
   Highest number of significant digits:                     14
-  Average number of significant digits:                13.8714
-  Maximum distance to origin:                          41.4452
-  Minimum distance to origin:                           31.375
-  Effective number of significant digits:              13.1408
+  Average number of significant digits:                13.9105
+  Maximum distance to origin:                           20.224
+  Minimum distance to origin:                     6.87888e-015
+  Effective number of significant digits:                   14
 
 
 =================================================================
@@ -39,18 +39,17 @@ Entity Summary
 -----------------------------------------------------------------
 Type Name                                         Count Converted
 ---- ----                                         ----- ---------
-100  Arc                                           1480      1480
-102  Composite curve                               1670      1670
-104  Conic arc                                       24        24
-110  Line                                          1650      1650
-112  Parametric spline curve                        152       152
-124  Transformation matrix                         1506      1506
-126  Rational B-spline curve                       3338      3338
-128  Rational B-spline surface                      712       712
-142  Curve on a parametric surface                  845       845
-144  Trimmed parametric surface                     712       712
-308  Subfigure definition                            54        54
-408  Singular subfigure instance                     54        54
+100  Arc                                             92        92
+102  Composite curve                                116       116
+110  Line                                            97        97
+112  Parametric spline curve                          4         4
+124  Transformation matrix                           93        93
+126  Rational B-spline curve                        192       192
+128  Rational B-spline surface                       38        38
+142  Curve on a parametric surface                   58        58
+144  Trimmed parametric surface                      38        38
+308  Subfigure definition                             1         1
+408  Singular subfigure instance                      1         1
 _________________________________________________________________
 
 
@@ -59,10 +58,10 @@ Result Summary
 =================================================================
 SolidWorks Feature Type                Count
 -----------------------                -----
-Solid feature(s)                       54
+Solid feature(s)                       1
 Surface feature(s)                     0
 Curve/Sketch feature(s)                0
 --------------------------------------------
-Start time: Wednesday, March 30, 2011 15:58:39
-Finish time: Wednesday, March 30, 2011 16:00:53
-Processing time: 0 days, 00 hours, 02 mins, 14 secs
+Start time: Thursday, March 26, 2015 15:04:13
+Finish time: Thursday, March 26, 2015 15:04:17
+Processing time: 0 days, 00 hours, 00 mins, 04 secs

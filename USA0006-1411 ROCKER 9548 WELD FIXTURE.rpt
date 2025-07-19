@@ -1,0 +1,68 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : ParaLogix v2.5 (Oct 19 2011)
+Receiving System Product I.D.: ParaLogix v2.5 (Oct 19 2011)
+File Name                    : G:\Engineering\Warner Robbins\TT90-F REV U TRAILER\9545 FRAME ASSY\USA0006-1411 ROCKER 9548 WELD FIXTURE\USA0006-1411 ROCKER 9548 WELD FIXTURE SOLIDWORKS\USA0006-1411 ROCKER 9548 WELD FIXTURE.igs
+Sending System               : Part Modeler 2012 R1 (Oct 19 2011 15:26:43 Unicode)
+Preprocessor Version         : A3DS IGES v2.5 (Oct 19 2011)
+File Creation Date           : 20131004.145014
+Model Creation Date          : 
+Units                        : IN
+Model Space Scale            : 1
+Author                       : 
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                13.9253
+  Maximum distance to origin:                           50.854
+  Minimum distance to origin:                          45.2227
+  Effective number of significant digits:               12.768
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                          26944     26944
+102  Composite curve                              29822     29822
+104  Conic arc                                      428       428
+110  Line                                         21176     21176
+112  Parametric spline curve                       5262      5262
+124  Transformation matrix                        27372     27372
+126  Rational B-spline curve                      58840     58840
+128  Rational B-spline surface                    12550     12550
+142  Curve on a parametric surface                14911     14911
+144  Trimmed parametric surface                   12550     12550
+308  Subfigure definition                           158       158
+408  Singular subfigure instance                    158       158
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       157
+Surface feature(s)                     6
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Monday, October 07, 2013 06:09:51
+Finish time: Monday, October 07, 2013 06:25:41
+Processing time: 0 days, 00 hours, 15 mins, 50 secs

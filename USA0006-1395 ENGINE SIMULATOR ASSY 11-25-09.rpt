@@ -1,0 +1,67 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : ParaLogix v2.5 (May  6 2014)
+Receiving System Product I.D.: ParaLogix v2.5 (May  6 2014)
+File Name                    : G:\Engineering\Warner Robbins\TT90-F REV U TRAILER\PART MODLER CONVERSIONS TO IGES\USA0006-1395 ENGINE SIMULATOR ASSY 11-25-09.igs
+Sending System               : Part Modeler 2014 R2 (May 06 2014 14:31:26 Unicode)
+Preprocessor Version         : A3DS IGES v2.5 (May  6 2014)
+File Creation Date           : 20150326.142649
+Model Creation Date          : 
+Units                        : IN
+Model Space Scale            : 1
+Author                       : 
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                13.9052
+  Maximum distance to origin:                          43.5672
+  Minimum distance to origin:                          36.9607
+  Effective number of significant digits:               12.914
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                           1108      1108
+102  Composite curve                               2024      2024
+110  Line                                          2604      2604
+112  Parametric spline curve                        368       368
+124  Transformation matrix                         1108      1108
+126  Rational B-spline curve                       4188      4188
+128  Rational B-spline surface                      827       827
+142  Curve on a parametric surface                 1012      1012
+144  Trimmed parametric surface                     827       827
+308  Subfigure definition                            90        90
+408  Singular subfigure instance                     90        90
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       26
+Surface feature(s)                     64
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Thursday, March 26, 2015 14:27:31
+Finish time: Thursday, March 26, 2015 14:27:53
+Processing time: 0 days, 00 hours, 00 mins, 22 secs
